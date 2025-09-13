@@ -5,7 +5,7 @@ $nombre2 = $_POST['nombre2'];
 $precio2 = $_POST['precio2'];
 $nombre3 = $_POST['nombre3'];
 $precio3 = $_POST['precio3'];
-$suma = $precio1 + precio2 + precio3;
+$suma = $precio1 + $precio2 + $precio3;
 $descuento = $suma * 0.16;
 $total = $suma - $descuento;
 
