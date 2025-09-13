@@ -13,5 +13,7 @@ echo "<h2>Productos</h2>";
 echo "El producto $nombre1 cuesta $precio1.<br>";
 echo "El producto $nombre3 cuesta $precio3.<br>";
 echo "El producto $nombre3 cuesta $precio3.<br>";
-echo "La suma de los precios de los productos es $suma.";
+echo "La suma de los precios de los productos es $suma.<br>";
+echo "El descuento de la suma de los productos es $descuento.<br>";
+echo "El total a pagar es $total.";
 ?>
